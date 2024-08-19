@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857b6735-e719-49a5-8969-1f1daa9a3bf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Programming_for_Data_Scientist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Algebra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOPS.py" afterDir="false" />
+    <list default="true" id="857b6735-e719-49a5-8969-1f1daa9a3bf5" name="Changes" comment="https://github.com/Sivanesan-Ayyanar/Programming-for-Machine-Learning-and-DataScience">
+      <change afterPath="$PROJECT_DIR$/BuiltIn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradient_descent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Normal_Equation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Without_Inbuilt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perceptron_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Algebra.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear Algebra.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Numpy.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vs632/PycharmProjects/Programming_for_Data_Scientist&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BuiltIn.executor": "Run",
+    "Python.Gradient_descent.executor": "Run",
+    "Python.Normal_Equation.executor": "Run",
+    "Python.Numpy.executor": "Run",
+    "Python.Without_Inbuilt.executor": "Run",
+    "Python.perceptron_1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vs632/PycharmProjects/Programming_for_Data_Scientist"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,6 +68,23 @@
       <option name="presentableId" value="Default" />
       <updated>1721905245831</updated>
     </task>
+    <task id="LOCAL-00001" summary="https://github.com/Sivanesan-Ayyanar/Programming-for-Machine-Learning-and-DataScience">
+      <option name="closed" value="true" />
+      <created>1722363160220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722363160220</updated>
+    </task>
+    <task id="LOCAL-00002" summary="https://github.com/Sivanesan-Ayyanar/Programming-for-Machine-Learning-and-DataScience">
+      <option name="closed" value="true" />
+      <created>1722363240824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722363240824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +103,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/Sivanesan-Ayyanar/Programming-for-Machine-Learning-and-DataScience" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Sivanesan-Ayyanar/Programming-for-Machine-Learning-and-DataScience" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
